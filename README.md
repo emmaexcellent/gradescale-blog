@@ -1,0 +1,1 @@
+# Blog dedicated to Gradescale
